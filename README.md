@@ -19,3 +19,23 @@ Cloud Computing is <b>on-demand delivery</b> of compute power, database storage,
 <em>Platform as a Service (PaaS)</em> - focus on the deployment and management of the applications.
 
 <em>Software as a Service (SaaS)</em> - completed product that is managed and run by the provider.
+
+### AWS Regions
+
+AWS can have Regions all around the world.
+
+A region is a cluster of data centers.
+
+### How to choose an AWS Region?
+
+<em>Compliance</em> data never leaves a region without your explicit permission
+
+<em>Proximity</em> to customers - reduced latency
+
+<em>Available services</em> within a Region: new services and new features aren't available in every Region
+
+<em>Pricing</em> pricing varies region to region and is transparent in the service pricing page
+
+### AWS Availability Zones
+
+Each region has many availability zones. Each availability zone is one or more discrete data centers with redundant power, networking and connectivity.
