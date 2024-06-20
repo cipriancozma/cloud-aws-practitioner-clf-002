@@ -39,3 +39,8 @@ A region is a cluster of data centers.
 ### AWS Availability Zones
 
 Each region has many availability zones. Each availability zone is one or more discrete data centers with redundant power, networking and connectivity.
+
+### IAM - Identity and Access Management
+
+- users are people within your organization and can be grouped
+- users or groups can be assigned JSON documents called policies
