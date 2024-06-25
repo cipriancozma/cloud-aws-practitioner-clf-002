@@ -44,3 +44,7 @@ Each region has many availability zones. Each availability zone is one or more d
 
 - users are people within your organization and can be grouped
 - users or groups can be assigned JSON documents called policies
+- user can select password policies and MFA
+- MFA = password you know + security device you own
+
+### AWS Access Keys, CLI and SDK
