@@ -48,3 +48,6 @@ Each region has many availability zones. Each availability zone is one or more d
 - MFA = password you know + security device you own
 
 ### AWS Access Keys, CLI and SDK
+
+- to access AWS we have AWS Management Console, AWS Command Line Interface, AWS Software Developer Kit (SDK)
+- Access keys are secret, just like the password (don't share them)
